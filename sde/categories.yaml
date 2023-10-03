@@ -1,0 +1,184 @@
+-
+  id: 0
+  name: '#System'
+  published: false
+-
+  id: 1
+  name: Owner
+  published: false
+-
+  id: 2
+  name: Celestial
+  published: true
+-
+  id: 3
+  name: Station
+  published: false
+-
+  id: 4
+  name: Material
+  published: true
+-
+  id: 5
+  name: Accessories
+  published: true
+-
+  id: 6
+  name: Ship
+  published: true
+-
+  id: 7
+  name: Module
+  published: true
+-
+  id: 8
+  name: Charge
+  published: true
+-
+  id: 9
+  name: Blueprint
+  published: true
+-
+  id: 10
+  name: Trading
+  published: false
+-
+  id: 11
+  name: Entity
+  published: false
+-
+  id: 14
+  name: Bonus
+  published: false
+-
+  id: 16
+  name: Skill
+  published: true
+-
+  id: 17
+  name: Commodity
+  published: true
+-
+  id: 18
+  name: Drone
+  published: true
+-
+  id: 20
+  name: Implant
+  published: true
+-
+  id: 22
+  name: Deployable
+  published: true
+-
+  id: 23
+  name: Starbase
+  published: true
+-
+  id: 24
+  name: Reaction
+  published: true
+-
+  id: 25
+  name: Asteroid
+  published: true
+-
+  id: 26
+  name: WorldSpace
+  published: false
+-
+  id: 29
+  name: Abstract
+  published: false
+-
+  id: 30
+  name: Apparel
+  published: true
+-
+  id: 32
+  name: Subsystem
+  published: true
+-
+  id: 34
+  name: 'Ancient Relics'
+  published: true
+-
+  id: 35
+  name: Decryptors
+  published: true
+-
+  id: 39
+  name: 'Infrastructure Upgrades'
+  published: true
+-
+  id: 40
+  name: 'Sovereignty Structures'
+  published: true
+-
+  id: 41
+  name: 'Planetary Industry'
+  published: true
+-
+  id: 42
+  name: 'Planetary Resources'
+  published: true
+-
+  id: 43
+  name: 'Planetary Commodities'
+  published: true
+-
+  id: 46
+  name: Orbitals
+  published: true
+-
+  id: 49
+  name: Placeables
+  published: false
+-
+  id: 53
+  name: Effects
+  published: false
+-
+  id: 54
+  name: Lights
+  published: false
+-
+  id: 59
+  name: Cells
+  published: false
+-
+  id: 63
+  name: 'Special Edition Assets'
+  published: true
+-
+  id: 65
+  name: Structure
+  published: true
+-
+  id: 66
+  name: 'Structure Module'
+  published: true
+-
+  id: 87
+  name: Fighter
+  published: true
+-
+  id: 91
+  name: SKINs
+  published: true
+-
+  id: 2100
+  name: 'Expert Systems'
+  published: true
+-
+  id: 2107
+  name: Mining
+  published: false
+-
+  id: 2118
+  name: Personalization
+  published: true
+-
+  id: 350001
+  name: Infantry
+  published: false

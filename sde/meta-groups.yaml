@@ -1,0 +1,63 @@
+-
+  id: 1
+  name: 'Tech I'
+-
+  id: 2
+  icon_id: 24150
+  icon_suffix: t2
+  name: 'Tech II'
+-
+  id: 3
+  icon_id: 24147
+  icon_suffix: storyline
+  name: Storyline
+-
+  id: 4
+  icon_id: 24146
+  icon_suffix: faction
+  name: Faction
+-
+  id: 5
+  icon_id: 24149
+  icon_suffix: officer
+  name: Officer
+-
+  id: 6
+  icon_id: 24148
+  icon_suffix: deadspace
+  name: Deadspace
+-
+  id: 14
+  icon_id: 24151
+  icon_suffix: t3
+  name: 'Tech III'
+-
+  id: 15
+  icon_id: 24152
+  icon_suffix: abyssal
+  name: Abyssal
+-
+  id: 17
+  icon_id: 24153
+  icon_suffix: premium
+  name: Premium
+-
+  id: 19
+  icon_id: 24154
+  icon_suffix: limited
+  name: 'Limited Time'
+-
+  id: 52
+  icon_id: 24155
+  icon_suffix: struct_faction
+  name: 'Structure Faction'
+-
+  id: 53
+  icon_id: 24156
+  icon_suffix: struct_t2
+  name: 'Structure Tech II'
+-
+  id: 54
+  icon_id: 24157
+  icon_suffix: struct
+  name: 'Structure Tech I'

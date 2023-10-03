@@ -1,0 +1,21 @@
+{
+  "name": "@killmails/sde",
+  "version": "0.1.0",
+  "description": "Killmails Static Data export.",
+  "keywords": [
+    "killmails",
+    "sde",
+    "static-data",
+    "eve",
+    "eve online"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/killmails/sde#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:killmails/sde.git"
+  },
+  "bugs": {
+    "url": "https://github.com/killmails/sde/issues"
+  }
+}
