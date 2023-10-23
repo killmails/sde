@@ -11719,3 +11719,39 @@
   icon_id: 20967
   name: Gallente
   has_types: true
+-
+  id: 3523
+  market_group_id: 3520
+  icon_id: 20968
+  name: Minmatar
+  has_types: true
+-
+  id: 3531
+  market_group_id: 3480
+  icon_id: 1443
+  name: 'Pirate Faction'
+  has_types: true
+-
+  id: 3535
+  market_group_id: 3520
+  icon_id: 20959
+  name: Amarr
+  has_types: true
+-
+  id: 3546
+  market_group_id: 3520
+  icon_id: 20966
+  name: Caldari
+  has_types: true
+-
+  id: 3548
+  market_group_id: 1998
+  icon_id: 21420
+  name: 'Special Frigates'
+  has_types: false
+-
+  id: 3549
+  market_group_id: 3548
+  icon_id: 21420
+  name: 'Special Frigates'
+  has_types: true

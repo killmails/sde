@@ -6243,7 +6243,7 @@
   constellation_id: 20000152
   region_id: 10000012
   name: G-0Q86
-  security: -0.017342729338319
+  security: -0.0173427293383
 -
   id: 30001042
   constellation_id: 20000152
@@ -7611,7 +7611,7 @@
   constellation_id: 20000185
   region_id: 10000015
   name: H-PA29
-  security: -0.24105355211337
+  security: -0.241053552113
 -
   id: 30001270
   constellation_id: 20000185
@@ -23043,7 +23043,7 @@
   constellation_id: 20000561
   region_id: 10000048
   name: Alsavoinon
-  security: 0.26636628615409
+  security: 0.266366286154
 -
   id: 30003842
   constellation_id: 20000561
@@ -32584,6 +32584,12 @@
   region_id: 10000069
   name: Reitsato
   security: 0.18951047973395
+-
+  id: 30100000
+  constellation_id: 20010000
+  region_id: 10001000
+  name: Zarzakh
+  security: -1.0
 -
   id: 31000001
   constellation_id: 21000334

@@ -1898,3 +1898,31 @@
   faction_id: 500021
   name: 'Ashes of Turnur'
   ticker: ASH-T
+-
+  id: 1000438
+  ceo_id: 1
+  faction_id: 500029
+  icon_id: 20996
+  name: 'Deathless Custodians'
+  ticker: DTH-C
+-
+  id: 1000439
+  ceo_id: 1
+  faction_id: 500029
+  icon_id: 20996
+  name: 'Satori-Horigu Epistemics'
+  ticker: S-HE
+-
+  id: 1000440
+  ceo_id: 1
+  faction_id: 500029
+  icon_id: 20996
+  name: 'Hrada-Oki Caravan'
+  ticker: H-OC
+-
+  id: 1000441
+  ceo_id: 1
+  faction_id: 500029
+  icon_id: 20996
+  name: 'Deathless Wraiths'
+  ticker: DTH-W

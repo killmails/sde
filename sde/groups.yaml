@@ -8096,6 +8096,16 @@
   name: 'Lancer Dreadnought'
   published: true
 -
+  id: 4599
+  category_id: 17
+  name: 'Warp Vector Data'
+  published: true
+-
+  id: 4636
+  category_id: 11
+  name: 'Pirate Entities'
+  published: false
+-
   id: 350858
   category_id: 350001
   name: 'Infantry Weapons'
