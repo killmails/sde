@@ -7,1405 +7,1643 @@
   id: 1000002
   ceo_id: 3004049
   faction_id: 500001
+  icon_id: 1465
   name: 'CBD Corporation'
   ticker: CBDC
 -
   id: 1000003
   ceo_id: 3004169
   faction_id: 500001
+  icon_id: 1581
   name: 'Prompt Delivery'
   ticker: PD
 -
   id: 1000004
   ceo_id: 3004217
   faction_id: 500001
+  icon_id: 1582
   name: Ytiri
   ticker: 'Y'
 -
   id: 1000005
   ceo_id: 3004113
   faction_id: 500001
+  icon_id: 1583
   name: 'Hyasyoda Corporation'
   ticker: HC
 -
   id: 1000006
   ceo_id: 3004089
   faction_id: 500001
+  icon_id: 1584
   name: 'Deep Core Mining Inc.'
   ticker: DCMI
 -
   id: 1000007
   ceo_id: 3004165
   faction_id: 500001
+  icon_id: 1585
   name: 'Poksu Mineral Group'
   ticker: PMG
 -
   id: 1000008
   ceo_id: 3004145
   faction_id: 500001
+  icon_id: 1586
   name: Minedrill
   ticker: M
 -
   id: 1000009
   ceo_id: 3004073
   faction_id: 500001
+  icon_id: 1587
   name: 'Caldari Provisions'
   ticker: CP
 -
   id: 1000010
   ceo_id: 3004129
   faction_id: 500001
+  icon_id: 1588
   name: 'Kaalakiota Corporation'
   ticker: KC
 -
   id: 1000011
   ceo_id: 3004209
   faction_id: 500001
+  icon_id: 1589
   name: 'Wiyrkomi Corporation'
   ticker: WC
 -
   id: 1000012
   ceo_id: 3004205
   faction_id: 500001
+  icon_id: 1590
   name: 'Top Down'
   ticker: TD
 -
   id: 1000013
   ceo_id: 3004177
   faction_id: 500001
+  icon_id: 1591
   name: 'Rapid Assembly'
   ticker: RA
 -
   id: 1000014
   ceo_id: 3004161
   faction_id: 500001
+  icon_id: 1592
   name: Perkone
   ticker: P
 -
   id: 1000015
   ceo_id: 3004077
   faction_id: 500001
+  icon_id: 1593
   name: 'Caldari Steel'
   ticker: CS
 -
   id: 1000016
   ceo_id: 3004221
   faction_id: 500001
+  icon_id: 1594
   name: Zainou
   ticker: ZA
 -
   id: 1000017
   ceo_id: 3004153
   faction_id: 500001
+  icon_id: 1595
   name: 'Nugoeihuvi Corporation'
   ticker: NC
 -
   id: 1000018
   ceo_id: 3004093
   faction_id: 500001
+  icon_id: 1596
   name: 'Echelon Entertainment'
   ticker: EE
 -
   id: 1000019
   ceo_id: 3004125
   faction_id: 500001
+  icon_id: 1597
   name: 'Ishukone Corporation'
   ticker: ISH
 -
   id: 1000020
   ceo_id: 3004133
   faction_id: 500001
+  icon_id: 1598
   name: 'Lai Dai Corporation'
   ticker: LDC
 -
   id: 1000021
   ceo_id: 3004225
   faction_id: 500013
+  icon_id: 1599
   name: 'Zero-G Research Firm'
   ticker: ZGRF
 -
   id: 1000022
   ceo_id: 3004173
   faction_id: 500001
+  icon_id: 1600
   name: 'Propel Dynamics'
   ticker: PRO
 -
   id: 1000023
   ceo_id: 3004097
   faction_id: 500001
+  icon_id: 1601
   name: 'Expert Distribution'
   ticker: ED
 -
   id: 1000024
   ceo_id: 3004053
   faction_id: 500001
+  icon_id: 1602
   name: 'CBD Sell Division'
   ticker: CBDSD
 -
   id: 1000025
   ceo_id: 3004201
   faction_id: 500001
+  icon_id: 1537
   name: 'Sukuuvestaa Corporation'
   ticker: SC
 -
   id: 1000026
   ceo_id: 3004061
   faction_id: 500001
+  icon_id: 1604
   name: 'Caldari Constructions'
   ticker: CC
 -
   id: 1000027
   ceo_id: 3004101
   faction_id: 500001
+  icon_id: 1605
   name: 'Expert Housing'
   ticker: EH
 -
   id: 1000028
   ceo_id: 3004065
   faction_id: 500001
+  icon_id: 1606
   name: 'Caldari Funds Unlimited'
   ticker: CFU
 -
   id: 1000029
   ceo_id: 3004197
   faction_id: 500001
+  icon_id: 1607
   name: 'State and Region Bank'
   ticker: SRB
 -
   id: 1000030
   ceo_id: 3004149
   faction_id: 500001
+  icon_id: 1608
   name: 'Modern Finances'
   ticker: MF
 -
   id: 1000031
   ceo_id: 3004081
   faction_id: 500001
+  icon_id: 1609
   name: 'Chief Executive Panel'
   ticker: CEP
 -
   id: 1000032
   ceo_id: 3004141
   faction_id: 500001
+  icon_id: 1610
   name: 'Mercantile Club'
   ticker: MC
 -
   id: 1000033
   ceo_id: 3004057
   faction_id: 500001
+  icon_id: 1611
   name: 'Caldari Business Tribunal'
   ticker: CBT
 -
   id: 1000034
   ceo_id: 3004109
   faction_id: 500001
+  icon_id: 1612
   name: 'House of Records'
   ticker: HR
 -
   id: 1000035
   ceo_id: 3004069
   faction_id: 500001
+  icon_id: 1613
   name: 'Caldari Navy'
   ticker: CN
 -
   id: 1000036
   ceo_id: 3004117
   faction_id: 500001
+  icon_id: 1614
   name: 'Internal Security'
   ticker: IN
 -
   id: 1000037
   ceo_id: 3004137
   faction_id: 500001
+  icon_id: 1615
   name: 'Lai Dai Protection Service'
   ticker: LDPS
 -
   id: 1000038
   ceo_id: 3012093
   faction_id: 500001
+  icon_id: 1616
   name: 'Ishukone Watch'
   ticker: IW
 -
   id: 1000039
   ceo_id: 3004105
   faction_id: 500001
+  icon_id: 1617
   name: 'Home Guard'
   ticker: HG
 -
   id: 1000040
   ceo_id: 3004157
   faction_id: 500001
+  icon_id: 1618
   name: 'Peace and Order Unit'
   ticker: POU
 -
   id: 1000041
   ceo_id: 3004189
   faction_id: 500001
+  icon_id: 1619
   name: 'Spacelane Patrol'
   ticker: SP
 -
   id: 1000042
   ceo_id: 3004213
   faction_id: 500001
+  icon_id: 1620
   name: 'Wiyrkomi Peace Corps'
   ticker: WPC
 -
   id: 1000043
   ceo_id: 3004085
   faction_id: 500001
+  icon_id: 1621
   name: 'Corporate Police Force'
   ticker: CPF
 -
   id: 1000044
   ceo_id: 3004181
   faction_id: 500001
+  icon_id: 1455
   name: 'School of Applied Knowledge'
   ticker: SAK
 -
   id: 1000045
   ceo_id: 3004185
   faction_id: 500001
+  icon_id: 1453
   name: 'Science and Trade Institute'
   ticker: STI
 -
   id: 1000046
   ceo_id: 3019602
   faction_id: 500002
+  icon_id: 1624
   name: 'Sebiestor Tribe'
   ticker: S
 -
   id: 1000047
   ceo_id: 3004437
   faction_id: 500002
+  icon_id: 1625
   name: 'Krusual Tribe'
   ticker: K
 -
   id: 1000048
   ceo_id: 3004493
   faction_id: 500002
+  icon_id: 1626
   name: 'Vherokior Tribe'
   ticker: V
 -
   id: 1000049
   ceo_id: 3004421
   faction_id: 500002
+  icon_id: 1627
   name: 'Brutor Tribe'
   ticker: B
 -
   id: 1000050
   ceo_id: 3004465
   faction_id: 500002
+  icon_id: 1466
   name: 'Republic Parliament'
   ticker: RP
 -
   id: 1000051
   ceo_id: 3004453
   faction_id: 500002
+  icon_id: 1467
   name: 'Republic Fleet'
   ticker: RF
 -
   id: 1000052
   ceo_id: 3004457
   faction_id: 500002
+  icon_id: 1468
   name: 'Republic Justice Department'
   ticker: RJD
 -
   id: 1000053
   ceo_id: 3004489
   faction_id: 500002
+  icon_id: 1469
   name: 'Urban Management'
   ticker: UM
 -
   id: 1000054
   ceo_id: 3004469
   faction_id: 500002
+  icon_id: 1470
   name: 'Republic Security Services'
   ticker: RSS
 -
   id: 1000055
   ceo_id: 3004441
   faction_id: 500002
+  icon_id: 1471
   name: 'Minmatar Mining Corporation'
   ticker: MMC
 -
   id: 1000056
   ceo_id: 3004425
   faction_id: 500002
+  icon_id: 1472
   name: 'Core Complexion Inc.'
   ticker: CCI
 -
   id: 1000057
   ceo_id: 3004417
   faction_id: 500002
+  icon_id: 1473
   name: 'Boundless Creation'
   ticker: BC
 -
   id: 1000058
   ceo_id: 3004429
   faction_id: 500002
+  icon_id: 1474
   name: 'Eifyr and Co.'
   ticker: EC
 -
   id: 1000059
   ceo_id: 3004481
   faction_id: 500002
+  icon_id: 1475
   name: 'Six Kin Development'
   ticker: SKD
 -
   id: 1000060
   ceo_id: 3004445
   faction_id: 500002
+  icon_id: 1476
   name: 'Native Freshfood'
   ticker: NF
 -
   id: 1000061
   ceo_id: 3004433
   faction_id: 500002
+  icon_id: 1477
   name: 'Freedom Extension'
   ticker: FE
 -
   id: 1000062
   ceo_id: 3004485
   faction_id: 500002
+  icon_id: 1478
   name: 'The Leisure Group'
   ticker: TLG
 -
   id: 1000063
   ceo_id: 3003877
   faction_id: 500003
+  icon_id: 1479
   name: 'Amarr Constructions'
   ticker: AC
 -
   id: 1000064
   ceo_id: 3003893
   faction_id: 500003
+  icon_id: 1480
   name: 'Carthum Conglomerate'
   ticker: C
 -
   id: 1000065
   ceo_id: 3003929
   faction_id: 500003
+  icon_id: 1481
   name: 'Imperial Armaments'
   ticker: IA
 -
   id: 1000066
   ceo_id: 3003993
   faction_id: 500003
+  icon_id: 1482
   name: Viziam
   ticker: VI
 -
   id: 1000067
   ceo_id: 3003997
   faction_id: 500003
+  icon_id: 1483
   name: 'Zoar and Sons'
   ticker: ZS
 -
   id: 1000068
   ceo_id: 3003969
   faction_id: 500003
+  icon_id: 1484
   name: 'Noble Appliances'
   ticker: NA
 -
   id: 1000069
   ceo_id: 3003905
   faction_id: 500003
+  icon_id: 1485
   name: 'Ducia Foundry'
   ticker: DF
 -
   id: 1000070
   ceo_id: 3003917
   faction_id: 500003
+  icon_id: 1486
   name: 'HZO Refinery'
   ticker: HZOR
 -
   id: 1000071
   ceo_id: 3003941
   faction_id: 500003
+  icon_id: 1487
   name: 'Inherent Implants'
   ticker: II
 -
   id: 1000072
   ceo_id: 3003937
   faction_id: 500003
+  icon_id: 1488
   name: 'Imperial Shipment'
   ticker: IS
 -
   id: 1000073
   ceo_id: 3003869
   faction_id: 500003
+  icon_id: 1489
   name: 'Amarr Certified News'
   ticker: ACN
 -
   id: 1000074
   ceo_id: 3003945
   faction_id: 500003
+  icon_id: 1490
   name: 'Joint Harvesting'
   ticker: JH
 -
   id: 1000075
   ceo_id: 3003973
   faction_id: 500003
+  icon_id: 1491
   name: Nurtura
   ticker: 'N'
 -
   id: 1000076
   ceo_id: 3003913
   faction_id: 500003
+  icon_id: 1492
   name: 'Further Foodstuffs'
   ticker: FU
 -
   id: 1000077
   ceo_id: 3003977
   faction_id: 500003
+  icon_id: 1449
   name: 'Royal Amarr Institute'
   ticker: RIN
 -
   id: 1000078
   ceo_id: 3003933
   faction_id: 500003
+  icon_id: 1494
   name: 'Imperial Chancellor'
   ticker: IC
 -
   id: 1000079
   ceo_id: 3003873
   faction_id: 500003
+  icon_id: 1495
   name: 'Amarr Civil Service'
   ticker: ACS
 -
   id: 1000080
   ceo_id: 3003965
   faction_id: 500003
+  icon_id: 1496
   name: 'Ministry of War'
   ticker: MW
 -
   id: 1000081
   ceo_id: 3003957
   faction_id: 500003
+  icon_id: 1497
   name: 'Ministry of Assessment'
   ticker: MI
 -
   id: 1000082
   ceo_id: 3003961
   faction_id: 500003
+  icon_id: 1498
   name: 'Ministry of Internal Order'
   ticker: MIO
 -
   id: 1000083
   ceo_id: 3003885
   faction_id: 500003
+  icon_id: 1499
   name: 'Amarr Trade Registry'
   ticker: ATR
 -
   id: 1000084
   ceo_id: 3003881
   faction_id: 500003
+  icon_id: 1500
   name: 'Amarr Navy'
   ticker: AN
 -
   id: 1000085
   ceo_id: 3013800
   faction_id: 500003
+  icon_id: 1501
   name: 'Court Chamberlain'
   ticker: CO
 -
   id: 1000086
   ceo_id: 3003985
   faction_id: 500003
+  icon_id: 1502
   name: 'Emperor Family'
   ticker: EF
 -
   id: 1000087
   ceo_id: 3019599
   faction_id: 500003
+  icon_id: 1503
   name: 'Kador Family'
   ticker: KF
 -
   id: 1000088
   ceo_id: 3019597
   faction_id: 500003
+  icon_id: 1504
   name: 'Sarum Family'
   ticker: SF
 -
   id: 1000089
   ceo_id: 3019598
   faction_id: 500003
+  icon_id: 1505
   name: 'Kor-Azor Family'
   ticker: KAF
 -
   id: 1000090
   ceo_id: 3019596
   faction_id: 500003
+  icon_id: 1506
   name: 'Ardishapur Family'
   ticker: AF
 -
   id: 1000091
   ceo_id: 3019600
   faction_id: 500003
+  icon_id: 1507
   name: 'Tash-Murkon Family'
   ticker: TMF
 -
   id: 1000092
   ceo_id: 3003897
   faction_id: 500003
+  icon_id: 1508
   name: 'Civic Court'
   ticker: CI
 -
   id: 1000093
   ceo_id: 3003989
   faction_id: 500003
+  icon_id: 1509
   name: 'Theology Council'
   ticker: T
 -
   id: 1000094
   ceo_id: 3004345
   faction_id: 500004
+  icon_id: 1510
   name: 'TransStellar Shipping'
   ticker: TSS
 -
   id: 1000095
   ceo_id: 3004277
   faction_id: 500004
+  icon_id: 1511
   name: 'Federal Freight'
   ticker: FF
 -
   id: 1000096
   ceo_id: 3004305
   faction_id: 500013
+  icon_id: 1512
   name: 'Inner Zone Shipping'
   ticker: IZS
 -
   id: 1000097
   ceo_id: 3004309
   faction_id: 500004
+  icon_id: 1513
   name: 'Material Acquisition'
   ticker: MA
 -
   id: 1000098
   ceo_id: 3004237
   faction_id: 500004
+  icon_id: 1514
   name: 'Astral Mining Inc.'
   ticker: AMI
 -
   id: 1000099
   ceo_id: 3004253
   faction_id: 500004
+  icon_id: 1515
   name: 'Combined Harvest'
   ticker: CH
 -
   id: 1000100
   ceo_id: 3004325
   faction_id: 500004
+  icon_id: 1516
   name: 'Quafe Company'
   ticker: QC
 -
   id: 1000101
   ceo_id: 3004257
   faction_id: 500004
+  icon_id: 1517
   name: CreoDron
   ticker: CD
 -
   id: 1000102
   ceo_id: 3004329
   faction_id: 500004
+  icon_id: 1518
   name: 'Roden Shipyards'
   ticker: RS
 -
   id: 1000103
   ceo_id: 3004233
   faction_id: 500004
+  icon_id: 1519
   name: 'Allotek Industries'
   ticker: AI
 -
   id: 1000104
   ceo_id: 3004317
   faction_id: 500004
+  icon_id: 1520
   name: 'Poteque Pharmaceuticals'
   ticker: PP
 -
   id: 1000105
   ceo_id: 3004301
   faction_id: 500004
+  icon_id: 1521
   name: Impetus
   ticker: I
 -
   id: 1000106
   ceo_id: 3004265
   faction_id: 500004
+  icon_id: 1522
   name: 'Egonics Inc.'
   ticker: EI
 -
   id: 1000107
   ceo_id: 3004341
   faction_id: 500004
+  icon_id: 1523
   name: 'The Scope'
   ticker: TS
 -
   id: 1000108
   ceo_id: 3004249
   faction_id: 500004
+  icon_id: 1524
   name: 'Chemal Tech'
   ticker: CT
 -
   id: 1000109
   ceo_id: 3004261
   faction_id: 500004
+  icon_id: 1525
   name: 'Duvolle Laboratories'
   ticker: DL
 -
   id: 1000110
   ceo_id: 3004269
   faction_id: 500004
+  icon_id: 1526
   name: FedMart
   ticker: FM
 -
   id: 1000111
   ceo_id: 3004229
   faction_id: 500004
+  icon_id: 1527
   name: Aliastra
   ticker: A
 -
   id: 1000112
   ceo_id: 3004241
   faction_id: 500004
+  icon_id: 1528
   name: 'Bank of Luminaire'
   ticker: BL
 -
   id: 1000113
   ceo_id: 3004313
   faction_id: 500004
+  icon_id: 1529
   name: 'Pend Insurance'
   ticker: PI
 -
   id: 1000114
   ceo_id: 3004297
   faction_id: 500004
+  icon_id: 1530
   name: 'Garoun Investment Bank'
   ticker: GIB
 -
   id: 1000115
   ceo_id: 3004349
   faction_id: 500004
+  icon_id: 1456
   name: 'University of Caille'
   ticker: UC
 -
   id: 1000116
   ceo_id: 3019613
   faction_id: 500004
+  icon_id: 1532
   name: President
   ticker: PR
 -
   id: 1000117
   ceo_id: 3004333
   faction_id: 500004
+  icon_id: 1533
   name: Senate
   ticker: SE
 -
   id: 1000118
   ceo_id: 3004337
   faction_id: 500004
+  icon_id: 1534
   name: 'Supreme Court'
   ticker: SU
 -
   id: 1000119
   ceo_id: 3004273
   faction_id: 500004
+  icon_id: 1535
   name: 'Federal Administration'
   ticker: FA
 -
   id: 1000120
   ceo_id: 3009898
   faction_id: 500004
+  icon_id: 1536
   name: 'Federation Navy'
   ticker: FN
 -
   id: 1000121
   ceo_id: 3004281
   faction_id: 500004
+  icon_id: 1537
   name: 'Federal Intelligence Office'
   ticker: FIO
 -
   id: 1000122
   ceo_id: 3004289
   faction_id: 500004
+  icon_id: 1538
   name: 'Federation Customs'
   ticker: FC
 -
   id: 1000123
   ceo_id: 3004005
   faction_id: 500007
+  icon_id: 1539
   name: 'Ammatar Fleet'
   ticker: ATF
 -
   id: 1000124
   ceo_id: 3004013
   faction_id: 500011
+  icon_id: 1540
   name: Archangels
   ticker: ARCA
 -
   id: 1000125
   ceo_id: 3004033
   faction_id: 500006
+  icon_id: 1541
   name: CONCORD
   ticker: CONCO
 -
   id: 1000126
   ceo_id: 3004001
   faction_id: 500007
+  icon_id: 1542
   name: 'Ammatar Consulate'
   ticker: ATC
 -
   id: 1000127
   ceo_id: 3019491
   faction_id: 500010
+  icon_id: 1543
   name: Guristas
   ticker: G
 -
   id: 1000128
   ceo_id: 3004497
   faction_id: 500018
+  icon_id: 1544
   name: "Mordu's Legion"
   ticker: MLG
 -
   id: 1000129
   ceo_id: 3004501
   faction_id: 500014
+  icon_id: 1545
   name: 'Outer Ring Excavations'
   ticker: ORE
 -
   id: 1000130
   ceo_id: 3004525
   faction_id: 500016
+  icon_id: 1546
   name: 'Sisters of EVE'
   ticker: SEVE
 -
   id: 1000131
   ceo_id: 3004533
   faction_id: 500017
+  icon_id: 1547
   name: 'Society of Conscious Thought'
   ticker: SCT
 -
   id: 1000132
   ceo_id: 3004045
   faction_id: 500006
+  icon_id: 1548
   name: 'Secure Commerce Commission'
   ticker: SCC
 -
   id: 1000133
   ceo_id: 3004025
   faction_id: 500011
+  icon_id: 1549
   name: 'Salvation Angels'
   ticker: SAG
 -
   id: 1000134
   ceo_id: 3004029
   faction_id: 500012
+  icon_id: 1550
   name: 'Blood Raiders'
   ticker: TBR
 -
   id: 1000135
   ceo_id: 3004513
   faction_id: 500020
+  icon_id: 1551
   name: 'Serpentis Corporation'
   ticker: SPC
 -
   id: 1000136
   ceo_id: 3004021
   faction_id: 500011
+  icon_id: 1552
   name: 'Guardian Angels'
   ticker: GA
 -
   id: 1000137
   ceo_id: 3004037
   faction_id: 500006
+  icon_id: 1553
   name: DED
   ticker: DED
 -
   id: 1000138
   ceo_id: 3004017
   faction_id: 500011
+  icon_id: 1554
   name: Dominations
   ticker: DOM
 -
   id: 1000139
   ceo_id: 3004521
   faction_id: 500016
+  icon_id: 1555
   name: 'Food Relief'
   ticker: FRL
 -
   id: 1000140
   ceo_id: 3004373
   faction_id: 500017
+  icon_id: 1556
   name: Genolution
   ticker: GNL
 -
   id: 1000141
   ceo_id: 3017105
   faction_id: 500010
+  icon_id: 1557
   name: 'Guristas Production'
   ticker: GUP
 -
   id: 1000142
   ceo_id: 3004377
   faction_id: 500017
+  icon_id: 1558
   name: Impro
   ticker: IPR
 -
   id: 1000143
   ceo_id: 3004041
   faction_id: 500006
+  icon_id: 1559
   name: 'Inner Circle'
   ticker: ICR
 -
   id: 1000144
   ceo_id: 3004357
   faction_id: 500009
+  icon_id: 1560
   name: 'Intaki Bank'
   ticker: IBK
 -
   id: 1000145
   ceo_id: 3004361
   faction_id: 500009
+  icon_id: 1561
   name: 'Intaki Commerce'
   ticker: ICM
 -
   id: 1000146
   ceo_id: 3004365
   faction_id: 500009
+  icon_id: 1562
   name: 'Intaki Space Police'
   ticker: ISP
 -
   id: 1000147
   ceo_id: 3004369
   faction_id: 500009
+  icon_id: 1563
   name: 'Intaki Syndicate'
   ticker: ISD
 -
   id: 1000148
   ceo_id: 3020038
   faction_id: 500013
+  icon_id: 1564
   name: InterBus
   ticker: INB
 -
   id: 1000149
   ceo_id: 3004381
   faction_id: 500005
+  icon_id: 1565
   name: 'Jove Navy'
   ticker: JVN
 -
   id: 1000150
   ceo_id: 3004385
   faction_id: 500005
+  icon_id: 1566
   name: 'Jovian Directorate'
   ticker: JDR
 -
   id: 1000151
   ceo_id: 3004401
   faction_id: 500008
+  icon_id: 1567
   name: 'Khanid Innovation'
   ticker: KIV
 -
   id: 1000152
   ceo_id: 3004405
   faction_id: 500008
+  icon_id: 1568
   name: 'Khanid Transport'
   ticker: KTP
 -
   id: 1000153
   ceo_id: 3004409
   faction_id: 500008
+  icon_id: 1569
   name: 'Khanid Works'
   ticker: KWK
 -
   id: 1000154
   ceo_id: 3004009
   faction_id: 500007
+  icon_id: 1570
   name: 'Nefantar Miner Association'
   ticker: NMA
 -
   id: 1000155
   ceo_id: 3004389
   faction_id: 500005
+  icon_id: 1571
   name: Prosper
   ticker: PRP
 -
   id: 1000156
   ceo_id: 3004413
   faction_id: 500008
+  icon_id: 1572
   name: 'Royal Khanid Navy'
   ticker: RKN
 -
   id: 1000157
   ceo_id: 3004517
   faction_id: 500020
+  icon_id: 1573
   name: 'Serpentis Inquest'
   ticker: SPI
 -
   id: 1000158
   ceo_id: 3004393
   faction_id: 500005
+  icon_id: 1574
   name: Shapeset
   ticker: SPS
 -
   id: 1000159
   ceo_id: 3004529
   faction_id: 500016
+  icon_id: 1575
   name: 'The Sanctuary'
   ticker: SAN
 -
   id: 1000160
   ceo_id: 3004537
   faction_id: 500015
+  icon_id: 1576
   name: 'Thukker Mix'
   ticker: TMX
 -
   id: 1000161
   ceo_id: 3004505
   faction_id: 500019
+  icon_id: 1577
   name: 'True Creations'
   ticker: TCR
 -
   id: 1000162
   ceo_id: 3004509
   faction_id: 500019
+  icon_id: 1578
   name: 'True Power'
   ticker: TPW
 -
   id: 1000163
   ceo_id: 3004541
   faction_id: 500015
+  icon_id: 1579
   name: 'Trust Partners'
   ticker: TPT
 -
   id: 1000164
   ceo_id: 3004397
   faction_id: 500017
+  icon_id: 1580
   name: X-Sense
   ticker: XSN
 -
   id: 1000165
   ceo_id: 3003921
   faction_id: 500003
+  icon_id: 10180
   name: 'Hedion University'
   ticker: HU
 -
   id: 1000166
   ceo_id: 3003925
   faction_id: 500003
+  icon_id: 10181
   name: 'Imperial Academy'
   ticker: IAC
 -
   id: 1000167
   ceo_id: 3004193
   faction_id: 500001
+  icon_id: 10182
   name: 'State War Academy'
   ticker: SWA
 -
   id: 1000168
   ceo_id: 3004285
   faction_id: 500004
+  icon_id: 10183
   name: 'Federal Navy Academy'
   ticker: FNA
 -
   id: 1000169
   ceo_id: 3004245
   faction_id: 500004
+  icon_id: 10184
   name: 'Center for Advanced Studies'
   ticker: CAS
 -
   id: 1000170
   ceo_id: 3004461
   faction_id: 500002
+  icon_id: 10185
   name: 'Republic Military School'
   ticker: RMS
 -
   id: 1000171
   ceo_id: 3004473
   faction_id: 500002
+  icon_id: 10186
   name: 'Republic University'
   ticker: RUN
 -
   id: 1000172
   ceo_id: 3004449
   faction_id: 500002
+  icon_id: 10187
   name: 'Pator Tech School'
   ticker: PTS
 -
   id: 1000173
+  ceo_id: 144513262
   name: 'Polaris Corporation'
   ticker: POLAR
 -
   id: 1000174
+  ceo_id: 1
   name: 'Polaris Bug Hunters'
   ticker: POLBU
 -
   id: 1000175
+  ceo_id: 1
   name: 'Polaris Events'
   ticker: POLEV
 -
   id: 1000176
+  ceo_id: 1
   name: "Pann's Peeps"
   ticker: PANNS
 -
   id: 1000177
   ceo_id: 1
   faction_id: 500005
+  icon_id: 10192
   name: 'Material Institute'
   ticker: MAI
 -
   id: 1000178
   ceo_id: 1
   faction_id: 500005
+  icon_id: 10191
   name: 'Academy of Aggressive Behaviour'
   ticker: AAB
 -
   id: 1000179
   ceo_id: 3018998
   faction_id: 500003
+  icon_id: 3369
   name: '24th Imperial Crusade'
   ticker: IC24
 -
   id: 1000180
   ceo_id: 3018995
   faction_id: 500001
+  icon_id: 3370
   name: 'State Protectorate'
   ticker: SPROT
 -
   id: 1000181
   ceo_id: 3018997
   faction_id: 500004
+  icon_id: 3371
   name: 'Federal Defense Union'
   ticker: FEDEF
 -
   id: 1000182
   ceo_id: 3018996
   faction_id: 500002
+  icon_id: 3372
   name: 'Tribal Liberation Force'
   ticker: TLIB
 -
   id: 1000193
+  ceo_id: 1
   faction_id: 500021
+  icon_id: 20984
   name: Arkombine
   ticker: ARK
 -
   id: 1000197
+  ceo_id: 1
+  icon_id: 20992
   name: 'Templis Dragonaurs'
   ticker: DRAGO
 -
   id: 1000198
   ceo_id: 3019567
   faction_id: 500003
+  icon_id: 20997
   name: 'Imperial Guard'
   ticker: IGRD
 -
   id: 1000205
   ceo_id: 3019509
   faction_id: 500003
+  icon_id: 20981
   name: 'Amarr Templars'
   ticker: ITPL
 -
   id: 1000206
   ceo_id: 3019510
   faction_id: 500003
+  icon_id: 20989
   name: 'Royal Uhlans'
   ticker: UHLAN
 -
   id: 1000207
   ceo_id: 3019511
   faction_id: 500003
+  icon_id: 20985
   name: 'Bragian Order'
   ticker: BRAGI
 -
   id: 1000208
   ceo_id: 3019512
   faction_id: 500001
+  icon_id: 20995
   name: 'Zumari Force Projection'
   ticker: ZUMAR
 -
   id: 1000213
   ceo_id: 3019513
   faction_id: 500001
+  icon_id: 20988
   name: 'Osmon Surveillance'
   ticker: OSMON
 -
   id: 1000214
   ceo_id: 3019514
   faction_id: 500001
+  icon_id: 20991
   name: 'Seituoda Taskforce Command'
   ticker: SEITC
 -
   id: 1000215
   ceo_id: 3019515
   faction_id: 500004
+  icon_id: 20980
   name: 'Algintal Core'
   ticker: ALGCO
 -
   id: 1000216
   ceo_id: 3019516
   faction_id: 500004
+  icon_id: 20987
   name: 'Crux Special Tasks Group'
   ticker: CRXG
 -
   id: 1000217
   ceo_id: 3019517
   faction_id: 500013
+  icon_id: 20994
   name: 'Villore Sec Ops'
   ticker: VSOPS
 -
   id: 1000218
   ceo_id: 3019518
   faction_id: 500002
+  icon_id: 20986
   name: 'Circle of Huskarl'
   ticker: COHUS
 -
   id: 1000219
   ceo_id: 3019519
   faction_id: 500002
+  icon_id: 20993
   name: 'Tronhadar Free Guard'
   ticker: TRONH
 -
   id: 1000220
   ceo_id: 3019520
   faction_id: 500002
+  icon_id: 20990
   name: 'Sanmatar Kelkoons'
   ticker: SANKE
 -
   id: 1000222
   ceo_id: 3019521
   faction_id: 500004
+  icon_id: 20996
   name: 'Ostrakon Agency'
   ticker: OSTKA
 -
   id: 1000223
   ceo_id: 3019522
   faction_id: 500003
+  icon_id: 20996
   name: 'Fraternity of St. Venefice'
   ticker: FRSTV
 -
   id: 1000224
   ceo_id: 3019523
   faction_id: 500003
+  icon_id: 20996
   name: 'Shining Flame'
   ticker: SHFLA
 -
   id: 1000225
   ceo_id: 3019524
   faction_id: 500003
+  icon_id: 20996
   name: 'Paladin Survey Force'
   ticker: PSFOR
 -
   id: 1000226
   ceo_id: 3019525
   faction_id: 500003
+  icon_id: 20996
   name: 'Ametat Security'
   ticker: AMESE
 -
   id: 1000227
   ceo_id: 3019526
   faction_id: 500003
+  icon_id: 20996
   name: 'Company of Marcher Lords'
   ticker: MRLRD
 -
   id: 1000228
   ceo_id: 3019527
   faction_id: 500003
+  icon_id: 20996
   name: 'Tal-Romon Legion'
   ticker: TALRO
 -
   id: 1000229
   ceo_id: 3019528
   faction_id: 500003
+  icon_id: 20996
   name: 'Kameira Lodge'
   ticker: KAMLO
 -
   id: 1000230
   ceo_id: 3019529
   faction_id: 500003
+  icon_id: 20996
   name: 'Red and Silver Hand'
   ticker: RDSIH
 -
   id: 1000231
   ceo_id: 3019530
   faction_id: 500003
+  icon_id: 20996
   name: 'Holdfast Syndicate'
   ticker: HFSYN
 -
   id: 1000232
   ceo_id: 3019548
   faction_id: 500001
+  icon_id: 20996
   name: 'Kinsho Swords'
   ticker: KISHO
 -
   id: 1000233
   ceo_id: 3019549
   faction_id: 500001
+  icon_id: 20996
   name: 'Expert Intervention'
   ticker: EXPIV
 -
   id: 1000234
   ceo_id: 3019557
   faction_id: 500001
+  icon_id: 20996
   name: 'Onikanabo Brigade'
   ticker: ONIKB
 -
   id: 1000235
   ceo_id: 3019560
   faction_id: 500001
+  icon_id: 20996
   name: 'Kirkinen Risk Control'
   ticker: KIRIC
 -
   id: 1000236
   ceo_id: 3019561
   faction_id: 500001
+  icon_id: 20996
   name: 'Storm Wind Strikeforce'
   ticker: STWSF
 -
   id: 1000237
   ceo_id: 3019563
   faction_id: 500001
+  icon_id: 20996
   name: 'Commando Perkone'
   ticker: CMDPK
 -
   id: 1000238
   ceo_id: 3019564
   faction_id: 500001
+  icon_id: 20996
   name: 'Isuuaya Tactical'
   ticker: ISTAC
 -
   id: 1000239
   ceo_id: 3019565
   faction_id: 500001
+  icon_id: 20996
   name: 'Intara Direct Action'
   ticker: INTDA
 -
   id: 1000240
   ceo_id: 3019566
   faction_id: 500001
+  icon_id: 20996
   name: 'Ikomari-Onu Enforcement'
   ticker: IKOEN
 -
   id: 1000243
   ceo_id: 3019531
   faction_id: 500004
+  icon_id: 20996
   name: 'Namtar Elite'
   ticker: NMTRE
 -
   id: 1000244
   ceo_id: 3019532
   faction_id: 500004
+  icon_id: 20996
   name: 'Mannar Focused Warfare'
   ticker: MFWAR
 -
   id: 1000245
   ceo_id: 3019533
   faction_id: 500004
+  icon_id: 20996
   name: 'Resheph Interstellar Strategy'
   ticker: RSHIS
 -
   id: 1000246
   ceo_id: 3019534
   faction_id: 500004
+  icon_id: 20996
   name: 'Sinq Laison Gendarmes'
   ticker: SQLNG
 -
   id: 1000247
   ceo_id: 3019535
   faction_id: 500004
+  icon_id: 20996
   name: 'Chatelain Rapid Response'
   ticker: CHTRR
 -
   id: 1000248
   ceo_id: 3019536
   faction_id: 500004
+  icon_id: 20996
   name: 'Edimmu Warfighters'
   ticker: EDIWF
 -
   id: 1000249
   ceo_id: 3019537
   faction_id: 500004
+  icon_id: 20996
   name: 'Kang Lo Directorate'
   ticker: KNGLO
 -
   id: 1000250
   ceo_id: 3019538
   faction_id: 500004
+  icon_id: 20996
   name: 'Condotta Rouvenor'
   ticker: CNDTR
 -
   id: 1000251
   ceo_id: 3019539
   faction_id: 500002
+  icon_id: 20996
   name: 'Brutor Vanguard'
   ticker: BRUVA
 -
   id: 1000252
   ceo_id: 3019540
   faction_id: 500002
+  icon_id: 20996
   name: 'Vherokior Combat Logistics'
   ticker: VHRCL
 -
   id: 1000253
   ceo_id: 3019541
   faction_id: 500002
+  icon_id: 20996
   name: 'Krullefor Organization'
   ticker: KRULO
 -
   id: 1000254
   ceo_id: 3019542
   faction_id: 500002
+  icon_id: 20996
   name: 'Mikramurka Shock Troop'
   ticker: MIKST
 -
   id: 1000255
   ceo_id: 3019543
   faction_id: 500002
+  icon_id: 20996
   name: 'Eyniletti Rangers'
   ticker: EYNRG
 -
   id: 1000256
   ceo_id: 3019544
   faction_id: 500002
+  icon_id: 20996
   name: 'Sebiestor Field Sappers'
   ticker: SEBFS
 -
   id: 1000257
   ceo_id: 3019545
   faction_id: 500002
+  icon_id: 20996
   name: 'Forty-Nine Fedayeen'
   ticker: 49FYN
 -
   id: 1000258
   ceo_id: 3019546
   faction_id: 500002
+  icon_id: 20996
   name: 'Seykal Expeditionary Group'
   ticker: SEKEG
 -
   id: 1000259
   ceo_id: 3019547
   faction_id: 500002
+  icon_id: 20996
   name: 'Krusual Covert Operators'
   ticker: KRUCO
 -
   id: 1000261
   ceo_id: 3019568
   faction_id: 500001
+  icon_id: 21092
   name: 'State Peacekeepers'
   ticker: STPC
 -
   id: 1000262
   ceo_id: 3019569
   faction_id: 500004
+  icon_id: 21093
   name: 'Federal Marines'
   ticker: FEDM
 -
   id: 1000263
   ceo_id: 3019570
   faction_id: 500002
+  icon_id: 21094
   name: 'Republic Command'
   ticker: RECO
 -
   id: 1000270
   ceo_id: 3019573
   faction_id: 500014
+  icon_id: 1545
   name: 'Outer Ring Development'
   ticker: ORDev
 -
@@ -1418,6 +1656,7 @@
   id: 1000274
   ceo_id: 3019583
   faction_id: 500024
+  icon_id: 21404
   name: 'Vigilant Tyrannos'
   ticker: VI-TY
 -
@@ -1482,40 +1721,56 @@
   ticker: RFORD
 -
   id: 1000287
+  ceo_id: 1
   faction_id: 500025
+  icon_id: 20996
   name: 'Infested Regions Hiveminds'
   ticker: RDIRH
 -
   id: 1000288
+  ceo_id: 1
   faction_id: 500026
+  icon_id: 20996
   name: 'Navka Overminds'
   ticker: NAVKA
 -
   id: 1000289
+  ceo_id: 1
   faction_id: 500025
+  icon_id: 20996
   name: 'Unshackled Overminds'
   ticker: UNOVM
 -
   id: 1000290
+  ceo_id: 1
+  icon_id: 20996
   name: 'Karybdis Infestation'
   ticker: KARYB
 -
   id: 1000291
+  ceo_id: 1
+  icon_id: 20996
   name: 'Scylla Infestation'
   ticker: SCYLI
 -
   id: 1000292
+  ceo_id: 1
   faction_id: 500026
+  icon_id: 20996
   name: 'Veles Clade'
   ticker: CLVEL
 -
   id: 1000293
+  ceo_id: 1
   faction_id: 500026
+  icon_id: 20996
   name: 'Perun Clade'
   ticker: CLPER
 -
   id: 1000294
+  ceo_id: 1
   faction_id: 500026
+  icon_id: 20996
   name: 'Svarog Clade'
   ticker: CLSVA
 -
@@ -1526,16 +1781,19 @@
   ticker: COAEG
 -
   id: 1000298
+  ceo_id: 1
   faction_id: 500026
   name: 'The Convocation of Triglav'
   ticker: CTPSV
 -
   id: 1000299
+  ceo_id: 1
   faction_id: 500001
   name: 'PKN Cryptographic'
   ticker: PKNCG
 -
   id: 1000300
+  ceo_id: 1
   faction_id: 500001
   name: 'PKN Interstellar'
   ticker: PKNIC
@@ -1546,6 +1804,7 @@
   ticker: VIMOK
 -
   id: 1000409
+  ceo_id: 1
   name: 'The Equilibrium of Mankind'
   ticker: EQOMK
 -
@@ -1570,42 +1829,49 @@
   id: 1000413
   ceo_id: 3020027
   faction_id: 500028
+  icon_id: 21
   name: 'AIR Laboratories'
   ticker: AIRLB
 -
   id: 1000419
   ceo_id: 3020039
   faction_id: 500013
+  icon_id: 25465
   name: Paragon
   ticker: PRGN
 -
   id: 1000425
   ceo_id: 3020041
   faction_id: 500013
+  icon_id: 20996
   name: 'Cromeaux Inc'
   ticker: CMXI
 -
   id: 1000426
   ceo_id: 3020042
   faction_id: 500013
+  icon_id: 20996
   name: 'Adaptive Provisioning'
   ticker: ADAPR
 -
   id: 1000427
   ceo_id: 3020043
   faction_id: 500013
+  icon_id: 20996
   name: 'Interplanetary Media Network'
   ticker: IMPN
 -
   id: 1000428
   ceo_id: 3020044
   faction_id: 500013
+  icon_id: 20996
   name: 'Verity Enhancements'
   ticker: VNHM
 -
   id: 1000429
   ceo_id: 3020045
   faction_id: 500013
+  icon_id: 20996
   name: 'Vapor Sea Technologies'
   ticker: VSEA
 -

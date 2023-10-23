@@ -1,0 +1,35 @@
+-
+  id: 1
+  icon_id: 1439
+  name: Caldari
+-
+  id: 2
+  icon_id: 1440
+  name: Minmatar
+-
+  id: 4
+  icon_id: 1442
+  name: Amarr
+-
+  id: 8
+  icon_id: 1441
+  name: Gallente
+-
+  id: 16
+  name: Jove
+-
+  id: 32
+  name: Pirate
+-
+  id: 64
+  name: Sleepers
+-
+  id: 128
+  icon_id: 0
+  name: ORE
+-
+  id: 134
+  name: 'Rogue Drones'
+-
+  id: 135
+  name: Triglavian
